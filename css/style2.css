@@ -1,0 +1,45 @@
+.invert{
+    position: absolute;
+    display: inline-block;
+    /* width: 10%; */
+    padding-bottom: 50px ; 
+   margin: 0 50% 0 43%;
+   border-width:50px ;
+}
+.btn{
+    width: 10rem;
+}
+.btn-one{
+    margin: 5px 20px;
+    border-radius: 20px;
+    
+}
+.one-quiz{
+
+    background-color: rgb(227, 207, 233);
+    border-radius: 10px;
+   
+  
+}
+.right{
+    margin: 20px auto 2px 20px;
+
+}
+hr{
+         
+        border-bottom: none;
+        width: 20%;
+        margin: 10px auto;
+      }
+
+/* @media (max-width: 1174) {
+    .invert{
+        width: 1rem;
+        border-radius: 10px;
+        margin: 0 50% 0 4%;
+    }
+    .btn{
+        width: 1rem;
+    }
+    
+} */

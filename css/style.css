@@ -1,0 +1,48 @@
+.top-box{
+text-align: center;
+padding-top: 20px;
+}
+
+h1{
+    background-color: purple;
+    border-radius: 25px;
+    color: white;
+    /* border-width: 2.5em;  */
+}
+.form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color:   blanchedalmond;
+    height: 300px;
+    width: 500px;
+    border-radius: 25px; 
+    /* margin-left: 35%; */
+    width: 50%;
+    
+    
+}
+.exam-form{
+    margin: 4px;
+    border: 2px solid rgb(47, 3, 105);
+    border-radius: 10px;
+    width: 300px;
+    /* margin-top: 0px 100px 0 100px; */
+}
+
+@media (max-width:1092px) {
+    .form{
+       
+        width: 50%;
+        
+    }
+    .exam-form{
+        width: 100%;
+    }
+    
+        
+}
+
+
+
